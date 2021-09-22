@@ -11,6 +11,11 @@ body {
 .post-1 {
   color: black;
   background-color: white;
-  padding: 20px;
+  padding-top: 50px;
+  padding-bottom: 500px;
+  margin-left: 25vw;
+  margin-right: 25vw;
   text-align: center;
+  position: relative;
+  top: 20px;
 }
