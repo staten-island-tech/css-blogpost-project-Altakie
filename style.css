@@ -1,6 +1,7 @@
 body {
   background-color: #282828;
   background-image: url(Background-2.jpg);
+  box-sizing: border-box;
 }
 
 .header-main {
@@ -33,4 +34,9 @@ body {
 
 .link-main {
   color: cyan;
+}
+
+.img-1 {
+  width: 85%;
+  height: auto;
 }
